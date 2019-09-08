@@ -1,10 +1,10 @@
 # Sublime
 Work assignment for Sublime
 
-Backend:
-- Backup for mssql database for bankend prodject is in /Backend/Database
+Backend part:
+- Backup for MSSQL database for backend project is in /Backend/Database
 
 
-Frontend:
-- Page is made with focus to look good in chrome. 
+Frontend part:
+- Page is made with focus on look good in chrome. 
 
